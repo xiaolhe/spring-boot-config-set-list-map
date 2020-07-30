@@ -1,0 +1,19 @@
+#list集合的配置
+test:
+  list:
+    aaa,bbb,ccc
+#集合的配置
+array:
+  array1:aaa,bbb,ccc
+  array2:11,22,33
+  array3:1.2,2.3,3.4
+#替换list集合的配置
+replace:
+  list:a,b,c
+#解析set集合的配置
+setdemo:
+  set:11,22,33,11
+#解析map集合的配置
+mapdemo:
+    map1: '{"account": "zhangsan", "sex": "1"}'
+    map2: '{"chinese": "120", "english": "79"}'
